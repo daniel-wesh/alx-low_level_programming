@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program that prints the result to the standard error
+ * main - Enty point
  *
  * Return: (1);
  */
