@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - Print t the size of diffrerent datatypes using the sizeof function 
+ * main - Print the size of different datatypes using the sizeof function
+ *
  *
  * Return: Always 0 (Success)
  */
