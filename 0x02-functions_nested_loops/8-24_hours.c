@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+* jack_bauer - returns 24 hours plus minutes
+*
+* Return: Always 0.
+*/
 
 void jack_bauer(void)
 {
@@ -21,6 +21,5 @@ void jack_bauer(void)
 			_putchar(m % 10 + '0');
 			_putchar('\n');
 		}
-	
 	}
 }
