@@ -9,10 +9,10 @@
 
 unsigned int _strspn(char *s, char *accept)
 {
-	 unsigned int n = 0;
-	 int k;
+	unsigned int n = 0;
+	int k;
 
-	 while (*s)
+	while (*s)
 	{
 		for (k = 0; accept[k]; k++)
 		{
