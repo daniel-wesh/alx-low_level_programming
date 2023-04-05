@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int_strspn - returns the number of bytes in the initial segment of s
+ * _strspn - returns the number of bytes in the initial segment of s
  * @s: parameter 1
  * @accept: parameter 2
  *
